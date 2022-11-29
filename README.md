@@ -2,8 +2,6 @@
 #a helper for tcp socket work
 
 public static void main(String...args) {
-		//org.apache.tomcat.websocket.server.WsFrameServer;
-		
 		System.out.println("start");
 		TcpHost c=TcpHost.create();
 		long s0=c.listen("192.168.0.82:1118");
