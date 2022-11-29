@@ -1,2 +1,2 @@
 # nethub-base-j
-a helper middleware for tcp socket work
+a helper for tcp socket work
